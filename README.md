@@ -17,4 +17,11 @@ Labeling bounding boxes is an essential step in object detection. The process of
 
 The platform used to perform bounding box labeling is [makesense.ai](https://www.makesense.ai/). This platform provides an intuitive interface that allows users to draw bounding boxes around objects in an image and assign labels to them. 
 
+## Training model(Yolo v8)
+The purpose of object detection model training is to create a model that is able to recognize objects in images and place bounding boxes around them. This is done by teaching the model to recognize specific patterns and features of the objects to be detected.
+
+[Yolo v8](https://github.com/ultralytics/ultralytics) is one of the deep learning models used for object detection. This model uses a convolutional neural network (CNN) architecture designed specifically for fast and accurate object recognition in images. Yolo v8 is capable of real-time object detection with high accuracy, making it ideal for applications that require fast and accurate object detection.
+
+
+
 
