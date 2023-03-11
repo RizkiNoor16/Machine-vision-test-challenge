@@ -11,3 +11,10 @@ To achieve optimal accuracy results, the object detection model requires a large
 Image augmentation is a process of increasing the size of a dataset by performing operations such as rotation, flipping, and shifting of images without changing the key information present in the image. Augmentation is a common technique used in image processing to create additional training data to improve the accuracy of a machine learning model. In this project, we will be using augmentation to increase the size of the test set provided by the challenge. Each image in the test set will be augmented 11 times to generate additional data and enhance the accuracy of the object detection model.
 
 ![Diagram Tanpa Judul drawio (30)](https://user-images.githubusercontent.com/99520100/224467330-2b61fcaf-8456-4a9d-b87d-8a7762e330eb.png)
+
+## Label images(Bounding Box)
+Labeling bounding boxes is an essential step in object detection. The process of labeling bounding boxes helps the model learn to identify objects of interest and their location in the image.
+
+The platform used to perform bounding box labeling is *makesense.ai*. This platform provides an intuitive interface that allows users to draw bounding boxes around objects in an image and assign labels to them. 
+
+https://www.makesense.ai/
