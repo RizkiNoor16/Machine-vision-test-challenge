@@ -15,6 +15,6 @@ Image augmentation is a process of increasing the size of a dataset by performin
 ## Label images(Bounding Box)
 Labeling bounding boxes is an essential step in object detection. The process of labeling bounding boxes helps the model learn to identify objects of interest and their location in the image.
 
-The platform used to perform bounding box labeling is *makesense.ai*. This platform provides an intuitive interface that allows users to draw bounding boxes around objects in an image and assign labels to them. 
+The platform used to perform bounding box labeling is [makesense.ai](https://www.makesense.ai/). This platform provides an intuitive interface that allows users to draw bounding boxes around objects in an image and assign labels to them. 
 
-https://www.makesense.ai/
+
