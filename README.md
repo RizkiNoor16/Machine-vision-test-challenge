@@ -1,1 +1,2 @@
 # Machine-vision-test-challenge
+This is a repository for the Machine Vision Test Challenge provided by Formulatrix to provide an automatic vision-based inspection solution. To overcome the problems faced by Fermentic Inc., I propose a solution for an object detection program that can distinguish between good and bad tips. Good tips with perfect tips can be considered premium quality, while bad tips, which are still usable, are considered to be of economy standard.
