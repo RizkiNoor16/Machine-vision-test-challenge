@@ -23,6 +23,7 @@ The purpose of object detection model training is to create a model that is able
 [Yolo v8](https://github.com/ultralytics/ultralytics) is one of the deep learning models used for object detection. This model uses a convolutional neural network (CNN) architecture designed specifically for fast and accurate object recognition in images. Yolo v8 is capable of real-time object detection with high accuracy, making it ideal for applications that require fast and accurate object detection.
 
 ## Performance
+** Confussuion Matrix ** 
 ![image](https://user-images.githubusercontent.com/99520100/224525872-f24b9412-aeed-4754-a08a-d5b07236a17e.png)
 
 **Validation Label** BEFORE
@@ -32,7 +33,18 @@ The purpose of object detection model training is to create a model that is able
 **Validation Predictions** AFTER
 ![image](https://user-images.githubusercontent.com/99520100/224525923-ca6dbbee-6d53-4012-b892-49cd1399fdfe.png)
 
+## Predictions
+**NOT GO PREDICTIONS**
+This model can predictt Corrupted images (NOT GO)
+![image](https://user-images.githubusercontent.com/99520100/224526074-9d4be470-1716-4f8e-be7c-85d382f77fca.png)
 
+**BAD TIP PREDICTION**
+Perfectly detect a bad tip
+![image](https://user-images.githubusercontent.com/99520100/224526080-c9645b48-fba0-41b5-9471-d66b77e14875.png)
+
+**GOOD TIP PREDICTIONS**
+This model can detetct a good tip
+![image](https://user-images.githubusercontent.com/99520100/224526248-ff66899c-0d6b-43fe-b2e9-6ba4f4d36273.png)
 
 
 
