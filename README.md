@@ -36,14 +36,17 @@ The purpose of object detection model training is to create a model that is able
 
 ## Predictions
 **NOT GO PREDICTIONS**
+
 This model can predictt Corrupted images (NOT GO)
 ![image](https://user-images.githubusercontent.com/99520100/224526074-9d4be470-1716-4f8e-be7c-85d382f77fca.png)
 
 **BAD TIP PREDICTION**
+
 Perfectly detect a bad tip
 ![image](https://user-images.githubusercontent.com/99520100/224526080-c9645b48-fba0-41b5-9471-d66b77e14875.png)
 
 **GOOD TIP PREDICTIONS**
+
 This model can detetct a good tip
 ![image](https://user-images.githubusercontent.com/99520100/224526248-ff66899c-0d6b-43fe-b2e9-6ba4f4d36273.png)
 
