@@ -3,7 +3,8 @@ This is a repository for the Machine Vision Test Challenge provided by Formulatr
 
 To differentiate between bad tips and good tips, I have manually labeled the images myself. The bad tips and good tips are distinguishable, as shown in the example below.
 
-![Diagram Tanpa Judul drawio (29)](https://user-images.githubusercontent.com/99520100/224466378-b8bbbe31-e3ae-4142-bb18-964b4eb3f180.png)
+![Diagram Tanpa Judul drawio (31)](https://user-images.githubusercontent.com/99520100/224526359-99d86f8c-33ab-4118-a960-2d2801fa35bb.png)
+
 
 ## Data Preparation (Augmentation)
 To achieve optimal accuracy results, the object detection model requires a large amount of training data to improve its accuracy. With only 24 datasets provided by the challenge, additional datasets are needed.
