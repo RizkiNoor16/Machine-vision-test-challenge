@@ -1,0 +1,9 @@
+
+    train: /content/data/train
+    val: /content/data/val
+    test : /content/data/test
+    nc: 2
+    names:
+        0 : Good_tip
+        1 : Bad_tip
+    
