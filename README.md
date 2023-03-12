@@ -23,7 +23,7 @@ The purpose of object detection model training is to create a model that is able
 [Yolo v8](https://github.com/ultralytics/ultralytics) is one of the deep learning models used for object detection. This model uses a convolutional neural network (CNN) architecture designed specifically for fast and accurate object recognition in images. Yolo v8 is capable of real-time object detection with high accuracy, making it ideal for applications that require fast and accurate object detection.
 
 ## Performance
-** Confussuion Matrix ** 
+**Confussuion Matrix ** 
 ![image](https://user-images.githubusercontent.com/99520100/224525872-f24b9412-aeed-4754-a08a-d5b07236a17e.png)
 
 **Validation Label** BEFORE
